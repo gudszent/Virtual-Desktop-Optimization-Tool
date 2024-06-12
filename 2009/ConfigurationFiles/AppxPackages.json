@@ -193,7 +193,7 @@
   },
   {
     "AppxPackage": "Microsoft.WindowsStore",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://blogs.windows.com/windowsexperience/2021/06/24/building-a-new-open-microsoft-store-on-windows-11/",
     "Description": "Windows Store app"
   },
