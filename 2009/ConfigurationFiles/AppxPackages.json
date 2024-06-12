@@ -121,7 +121,7 @@
   },
   {
     "AppxPackage": "Microsoft.StorePurchaseApp",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanced",
     "URL": "",
     "Description": "Store purchase app helper"
   },
