@@ -13,7 +13,7 @@
   },
   {
     "Name": "BcastDVRUserService",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://docs.microsoft.com/en-us/windows-hardware/drivers/network/mb-nitz-support",
     "Description": "This user service is used for Game Recordings and Live Broadcasts"
   },
@@ -107,22 +107,22 @@
   },
   {
     "Name": "XblAuthManager",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "Description": "Xbox Live Auth Manager service provides authentication and authorization services for interacting with Xbox Live."
   },
   {
     "Name": "XblGameSave",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "Description": "Xbox Live Game Save service syncs save data for Xbox Live save enabled games."
   },
   {
     "Name": "XboxGipSvc",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "Description": "Xbox Accessory Management manages connected Xbox accessories."
   },
   {
     "Name": "XboxNetApiSvc",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "Description": "Xbox Live Networking Service"
   }
 ]
